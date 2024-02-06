@@ -10,6 +10,6 @@
 }
 
 .ingredients-section{
-    background-color: white;
     text-align: center;
+    list-style-type: none;
 }
