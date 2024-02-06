@@ -3,3 +3,6 @@
     color: white;
 }
 
+.recipe-list {
+    list-style-type:circle;
+}
