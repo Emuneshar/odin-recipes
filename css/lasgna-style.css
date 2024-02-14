@@ -3,6 +3,6 @@
     text-align: center;
 }
 
-ul{
+ul, ol{
     list-style-type: none;
 }
